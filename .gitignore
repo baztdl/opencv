@@ -1,0 +1,22 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# Log/OS Files
+*.log
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#VSCode related
+.vscode/
