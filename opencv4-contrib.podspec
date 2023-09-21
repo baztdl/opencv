@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/baztdl/opencv.git", :branch => 'ios', :tag => spec.version.to_s  }
 
-  spec.platform = :ios, '11.0'
+  spec.platform = :ios, '12.0'
   spec.swift_version = '5.0'
 
   spec.source_files = '**/*{.h,.hpp}'
